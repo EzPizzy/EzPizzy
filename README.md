@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EzPizzy
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning Web Developement.
 - 📫 How to reach me @swayammahanta@gmail.com
 - 😄 Pronouns: He/Him
 - 🐱 Age: 15
