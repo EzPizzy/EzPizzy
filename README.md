@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Web Developement.
 - 📫 How to reach me @swayammahanta@gmail.com
 - 😄 Pronouns: He/Him
-- 🐱 Age: 15
+- 🐱 Age: 16
 
 <!---
 EzPizzy/EzPizzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
